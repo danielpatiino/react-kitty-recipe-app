@@ -4,7 +4,7 @@
 
 ## 🌟 Live Demo
 
-[👉 View the live app here!](PASTE_YOUR_LIVE_LINK_HERE)
+[👉 View the live app here!](https://react-kitty-recipe-app.vercel.app/)
 
 ---
 
